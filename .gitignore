@@ -1,0 +1,14 @@
+*~
+*#
+[#]*[#]
+*.elc
+*.sw?
+*.pyc
+temp/
+*.gz
+*.tgz
+dler-io/
+Hackl0us/
+StickRules/
+DivineEngine/
+Loyalsoldier/

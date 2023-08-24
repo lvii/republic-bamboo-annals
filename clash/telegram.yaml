@@ -1,0 +1,12 @@
+# https://github.com/dler-io/Rules/blob/main/Clash/Provider/Telegram.yaml
+# https://github.com/GeQ1an/Rules/blob/master/QuantumultX/Filter/Optional/Telegram.list
+# https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Filter/Extra/Telegram/Telegram.list
+payload:
+  - '+.t.me'
+  - '+.tx.me'
+  - '+.tdesktop.com'
+  - '+.telegra.ph'
+  - '+.telegram.me'
+  - '+.telegram.org'
+  - '+.telegram-cdn.org'
+  - '+.telesco.pe'
